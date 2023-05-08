@@ -1,0 +1,41 @@
+baseURL: https://ibrahimcetin.dev
+languageCode: en-us
+title: İbrahim Çetin
+theme: PaperMod
+
+params:
+  description: iOS Developer
+  keywords: [Portfolio]
+
+  DateFormat: 2 January 2006
+
+  ShowCodeCopyButtons: true
+  comments: false
+
+  profileMode:
+    enabled: true
+    subtitle: iOS Developer
+    imageUrl: https://avatars.githubusercontent.com/u/33904390
+
+  socialIcons:
+    - name: "linkedin"
+      url: https://www.linkedin.com/in/cetinibrahim/
+    - name: "github"
+      url: "https://github.com/ibrahimcetin/"
+    - name: "email"
+      url: "mailto:cetinibrahim.ci@gmail.com"
+
+menu:
+  main:
+    - identifier: home
+      name: home
+      url: /
+      weight: 10
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 20
+    - identifier: projects
+      name: projects
+      url: /projects/
+      weight: 30
