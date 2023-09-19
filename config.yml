@@ -23,7 +23,7 @@ params:
     - name: "github"
       url: "https://github.com/ibrahimcetin/"
     - name: "email"
-      url: "mailto:cetinibrahim.ci@gmail.com"
+      url: "mailto:mail@ibrahimcetin.dev"
 
 menu:
   main:
